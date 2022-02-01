@@ -1,0 +1,105 @@
+local
+Bangkok,200;
+IndiBar,Bar,10-20h,0;
+Museu de Bangkok,Arte,10-18h,50;
+University of Bangkok,Universidade,08-20h,32;
+local
+Berlim,111;
+Berlim Fun,Parque de Diversões,10-18h,32;
+Berlim Museum,História,10-17h,321;
+University of Berlim,Universidade,08-20h,122;
+local
+Cairo,251;
+Cairo Universirty,Universidade,08-20h,52;
+CairoPark,História,10-18h,33;
+CairoParkFun,Infantil,09-19h,29;
+local
+Cidade do Mexico,333;
+MexicoBar,Bar,14-02h,666;
+MexicoCity University,Universidade,09-19h,66;
+MexicoFun,Parque de Diversões,11-21h,43;
+local
+Dublin,32;
+Irish Music Pub,Bar,15-05h,43;
+Rock Museum,Musica,10-17h,70;
+Universirt Collenge of Dublin,Universidade,09-19h,23;
+local
+Faro,55;
+Museu de faro,Arte,10-18h,24;
+Parque FARO,Natureza,24-24h,67;
+Parque FAROFUN,Infantil,11-19h,98;
+local
+Kyoto,58;
+Kyoto Learning Institue,Universidade,08-18h,123;
+Kyoto Museum,História,10-18h,321;
+KyotoPark,Parque de Diversões,09-19h,343;
+local
+Lisboa,1000;
+FCUL,Universidade,10-17h,50;
+Mosteiro dos Gerónimos,História,10-18h,60;
+Museu de Lisboa,História,09-17h,44;
+NB Lisboa,Bar Noturno,18-05h,52;
+local
+Los Angeles,534;
+LA Institute,Universidade,08-20h,454;
+LA Museum, Musica,10-18h,332;
+Sanzala,Bar,13-23h,420;
+local
+Madrid,55;
+AquaMadri,Parque Aquatico,11-20h,12;
+MadBar,Bar,12-24h,2;
+Madrid Museum,Aviacao,10-18h,15;
+UniMadrid,Universidade,08-19h,32;
+local
+Miami,604;
+Florida Institute,Universidade,9-20h,20;
+South Beach,Praia,24-24h,1;
+Swamp Museum,Musica,10-18h,25;
+local
+Moscow,30;
+Moscow Museum,História,10-17h,35;
+Moscow University,Universidade,09-20h,95;
+RussBar,Bar,17-05h,48;
+local
+Mumbai,122;
+Mumbai University,Universidade,08-20h,122;
+Mumbai University,História,08-20h,221;
+MumbaiBar,Bar,12-24h,32;
+local
+Nova York,222;
+NY Museum,História,10-18h,33;
+NY Park,História,24-24h,55;
+NY University,Universidade,09-18h,25;
+local
+Paris,27;
+Disneyland Paris,Fantasia,10-20h,93;
+Hard Rock Cafe Paris,Bar,12-02h,84;
+Louvre,Arte,10-18h,24;
+Versailles,Histórico,08-19h,80;
+local
+Sao Paulo,11;
+Faculdade Paulina,Universidade,09-19h,43;
+Museu de Sao Paulo,História,10-18h,43;
+PauloBar,Bar,11-21h,34;
+local
+Seul,141;
+Blacklist,Bar,19-05h,53;
+Institute of Seul,Universidade,08-22h,14;
+Seul Museum,História,11-19h,43;
+local
+Sevilha,26;
+El Bar,Bar,10-22h,11;
+Museu de Sevilha,Museu,9-16h,5;
+Parque Cultura Sevilha,Animais,9-17h,155;
+Universidade de Sevilha,Universidade,9-20h,9;
+local
+Toronto,44;
+Bar Hop,Bar,14-03h,34;
+Toronto Museum,História,10-17h,35;
+Toronto University,Universidade,07-21h,32;
+local
+Xangai,225;
+XanPark,Parque,24-24h,433;
+Xangai Musuem,História,09-17h,322;
+Xangai Universiy,Universidade,08-20h,232;
+XanBar,Bar,10-21h,131;

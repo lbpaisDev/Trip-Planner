@@ -1,0 +1,4 @@
+lpais	1234	teste morada	qualquerdia	969696969	0	0	0	#	#	#	#
+bruno	lpais	Rua Carlos Seixas n134 3300-138 Coimbra	17/09/1999	962244094	3	0	1	FCUL	Lisboa	Paris	Madrid
+sergio	nigga1	morada do sergio	data	numero	3	0	0	#	Xangai	Sevilha	Paris
+antonio	passantonio	morado do antonio	um dia	91919191	3	0	0	#	Xangai	Sevilha	Paris
